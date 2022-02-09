@@ -13,7 +13,7 @@ reverse(535); // 535
 reverse(95034); // 43059
 ```
 
-Write your code in `src/index.js.
+Write your code in `src/index.js`.
 *All test cases are designed as “error-free”, so don't worry about handling any errors.*
 
 ## Prepare and test
