@@ -1,4 +1,9 @@
+// const intNum = 123;     // 321
 const intNum = -123;    // -321
+// const intNum = 5000;    // 5
+// const intNum = 4321234; // 4321234
+// const intNum = 7;       // 7
+// const intNum = 0;       // 0
 
 // module.exports = 
 function reverse (n) {
